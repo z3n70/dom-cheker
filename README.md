@@ -1,12 +1,17 @@
 # subdo_checker
 
-# Install 
-gem install httparty
-gem install uri
-gem install colorize
+#install
+
+ruby install
+
+https://www.ruby-lang.org/id/documentation/installation/
+
+- gem install uri
+- gem install httparty
+- gem install colorize
 
 git clone https://github.com/z3n70/subdo_checker
 
-ruby subdo-checker.rb
+cd subdo_checker
 
-enter your list domain.txt
+ruby subdo-checker.rb
