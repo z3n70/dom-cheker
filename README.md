@@ -10,8 +10,8 @@ https://www.ruby-lang.org/id/documentation/installation/
 - gem install httparty
 - gem install colorize
 
-git clone https://github.com/z3n70/subdo_checker
+git clone https://github.com/z3n70/dom-cheker
 
-cd subdo_checker
+cd dom-cheker
 
-ruby subdo-checker.rb
+ruby dom-cheker.rb
