@@ -1,4 +1,4 @@
-# subdo_checker
+# DomCheker
 
 #install
 
